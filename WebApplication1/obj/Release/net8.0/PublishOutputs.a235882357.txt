@@ -1,0 +1,7 @@
+C:\Users\TSUDAN\az204\WebApplication1\bin\Publish\WebApplication1.exe
+C:\Users\TSUDAN\az204\WebApplication1\bin\Publish\appsettings.Development.json
+C:\Users\TSUDAN\az204\WebApplication1\bin\Publish\appsettings.json
+C:\Users\TSUDAN\az204\WebApplication1\bin\Publish\WebApplication1.dll
+C:\Users\TSUDAN\az204\WebApplication1\bin\Publish\WebApplication1.deps.json
+C:\Users\TSUDAN\az204\WebApplication1\bin\Publish\WebApplication1.runtimeconfig.json
+C:\Users\TSUDAN\az204\WebApplication1\bin\Publish\WebApplication1.pdb
